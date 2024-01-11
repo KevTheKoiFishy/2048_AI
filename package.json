@@ -1,0 +1,12 @@
+{
+  "name": "2048-master",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "2048 AI",
+  "main": "2048_sim.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KevTheKoiFishy",
+  "license": "ISC"
+}
